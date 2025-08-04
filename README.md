@@ -6,7 +6,7 @@ A clean and secure login page built using **Streamlit**. Ideal for dashboards, i
 ---
 
 ## 📸 Screenshot
-![screenshot](assets/login-page.png) <!-- Add an image in assets folder if you have one -->
+![screenshot](loginpage.jpg) <!-- Add an image in assets folder if you have one -->
 
 ---
 
